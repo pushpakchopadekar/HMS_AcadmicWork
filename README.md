@@ -26,7 +26,7 @@ This repository contains the source code for a comprehensive Hospital Management
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/hospital-management-system.git
+  https://github.com/pushpakchopadekar/HMS_AcadmicWork.git
    cd hospital-management-system
    ```
 
